@@ -1,12 +1,12 @@
 @font-face {
 font-family:"exodus";
-src:url("https://github.com/washington-capitals/third-jersey/blob/main/Exodus-Regular.otf") format("opentype");
+src:url("https://washington-capitals.github.io/third-jersey/Exodus-Regular.otf") format("opentype");
 font-display:auto;font-style:normal;font-weight:400;
 }
 
 @font-face {
     font-family:"exodus-bold";
-    src:url("https://github.com/washington-capitals/third-jersey/blob/main/Exodus-Bold.otf") format("opentype");
+    src:url("https://washington-capitals.github.io/third-jersey/Exodus-Bold.otf") format("opentype");
     font-display:auto;font-style:normal;font-weight:700;
     }
 
