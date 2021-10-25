@@ -5,8 +5,21 @@ font-display:auto;font-style:normal;font-weight:400;
 }
 
 @font-face {
+font-family:"exodus-sharp";
+src:url("https://washington-capitals.github.io/third-jersey/Exodus-Sharpen.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+
+@font-face {
     font-family:"exodus-bold";
     src:url("https://washington-capitals.github.io/third-jersey/Exodus-Bold.otf") format("opentype");
     font-display:auto;font-style:normal;font-weight:700;
     }
 
+
+@font-face {
+font-family:"exodus-sharp-bold";
+src:url("https://washington-capitals.github.io/third-jersey/ExodusDisplay-SharpenBold.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
