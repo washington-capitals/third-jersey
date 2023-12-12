@@ -35,3 +35,8 @@ src:url("https://washington-capitals.github.io/third-jersey/WashingtonRR-web.otf
 font-display:auto;font-style:normal;font-weight:700;
 }
 
+@font-face {
+font-family:"charter";
+src:url("https://washington-capitals.github.io/third-jersey/Charter.ttc") format("truetype");
+font-display:auto;font-style:normal;font-weight:400;
+}
