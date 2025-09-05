@@ -40,3 +40,15 @@ font-family:"charter";
 src:url("https://washington-capitals.github.io/third-jersey/Charter.ttc") format("truetype");
 font-display:auto;font-style:normal;font-weight:400;
 }
+
+@font-face {
+font-family:"shamgod-bold";
+src:url("https://washington-capitals.github.io/third-jersey/Shamgod-Bold.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"aeternus-tall";
+src:url("https://washington-capitals.github.io/third-jersey/Aeternus-Tall_Variable.ttf") format("truetype");
+font-display:auto;font-style:normal;font-weight:600;
+}
