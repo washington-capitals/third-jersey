@@ -59,3 +59,9 @@ font-family:"wsh-edge";
 src:url("https://washington-capitals.github.io/third-jersey/NHLEWas_.ttf") format("truetype");
 font-display:auto;font-style:normal;font-weight:600;letter-spacing:-3px;
 }
+
+@font-face {
+font-family:"wsh-vintage";
+src:url("https://washington-capitals.github.io/third-jersey/wsh-vintage.ttf") format("truetype");
+font-display:auto;font-style:normal;font-weight:600;
+}
